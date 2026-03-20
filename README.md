@@ -1,2 +1,3 @@
-# rapid-cli-tool-8uvz
-A command-line tool for modern development workflows
+# Rapid Cli Tool 8Uvz
+
+A command-line tool for modern development workflows.
